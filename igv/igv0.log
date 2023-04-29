@@ -1,0 +1,835 @@
+INFO [Feb 23,2023 16:33] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 23,2023 16:33] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 23,2023 16:33] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 23,2023 16:33] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 23,2023 16:33] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 23,2023 16:33] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Feb 23,2023 16:33] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Feb 23,2023 16:33] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(Unknown Source)
+	at java.desktop/java.awt.Window.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/javax.swing.JFrame.<init>(Unknown Source)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:108)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Feb 23,2023 16:34] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 23,2023 16:34] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 23,2023 16:34] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 23,2023 16:34] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 23,2023 16:34] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 23,2023 16:34] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Feb 23,2023 16:34] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Feb 23,2023 16:34] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(Unknown Source)
+	at java.desktop/java.awt.Window.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/javax.swing.JFrame.<init>(Unknown Source)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:108)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Feb 23,2023 16:34] [ShutdownThread] Shutting down
+INFO [Feb 23,2023 16:36] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 23,2023 16:36] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 23,2023 16:36] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 23,2023 16:36] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 23,2023 16:36] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 23,2023 16:36] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Feb 23,2023 16:36] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Feb 23,2023 16:36] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(Unknown Source)
+	at java.desktop/java.awt.Window.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/javax.swing.JFrame.<init>(Unknown Source)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:108)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Feb 24,2023 17:41] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 17:41] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 17:41] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 17:41] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 17:41] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 17:41] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 17:41] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 17:41] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 17:41] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 17:41] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 17:42] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 17:42] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 17:42] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 17:42] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 17:42] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 17:42] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 17:42] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 17:42] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 17:42] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 17:42] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 17:43] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 17:43] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 17:43] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 17:43] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 17:43] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 17:43] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 17:44] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 17:44] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 17:44] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 17:46] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 17:47] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 17:47] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 17:47] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 17:47] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 17:47] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 17:47] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 17:47] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 17:47] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 17:47] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 17:48] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 18:00] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 18:00] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 18:00] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 18:00] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 18:00] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 18:00] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 18:00] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 18:01] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 18:01] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 18:01] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 18:01] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 18:01] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 18:01] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 18:01] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 18:01] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 18:01] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 18:03] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 18:03] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 18:03] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 18:03] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 18:03] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 18:03] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 18:03] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Feb 24,2023 18:03] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Feb 24,2023 18:03] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 18:03] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 18:08] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 18:11] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 18:11] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 18:11] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 18:11] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 18:11] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 18:11] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Feb 24,2023 18:11] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Feb 24,2023 18:11] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 18:11] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 18:12] [TrackLoader] Loading resource:  /bip7_disk/pohui111/homopolish/dl_test4/debug/reads_sorted.bam
+INFO [Feb 24,2023 18:13] [ShutdownThread] Shutting down
+INFO [Feb 24,2023 18:15] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Feb 24,2023 18:15] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Feb 24,2023 18:15] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Feb 24,2023 18:15] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Feb 24,2023 18:15] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Feb 24,2023 18:15] [Main] IGV Directory: /home/pohui111/igv
+INFO [Feb 24,2023 18:15] [CommandListener] Listening on port 60151
+INFO [Feb 24,2023 18:15] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Feb 24,2023 18:15] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Feb 24,2023 18:16] [ShutdownThread] Shutting down
+INFO [Mar 01,2023 15:23] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 01,2023 15:23] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 01,2023 15:23] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 01,2023 15:23] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 01,2023 15:23] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 01,2023 15:23] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 01,2023 15:23] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Mar 01,2023 15:23] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set, but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(Unknown Source)
+	at java.desktop/java.awt.Window.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/java.awt.Frame.<init>(Unknown Source)
+	at java.desktop/javax.swing.JFrame.<init>(Unknown Source)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:108)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Mar 01,2023 16:11] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 01,2023 16:11] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 01,2023 16:11] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 01,2023 16:11] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 01,2023 16:11] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 01,2023 16:11] [Main] IGV Directory: /home/pohui111/igv
+INFO [Mar 01,2023 16:11] [CommandListener] Listening on port 60151
+INFO [Mar 01,2023 16:11] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 01,2023 16:12] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 13,2023 19:42] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 13,2023 19:42] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 13,2023 19:42] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 13,2023 19:42] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 13,2023 19:42] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 13,2023 19:42] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 13,2023 19:42] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 13,2023 19:42] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 13,2023 19:42] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 16,2023 14:53] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 16,2023 14:53] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 16,2023 14:53] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 16,2023 14:53] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 16,2023 14:53] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 16,2023 14:53] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 16,2023 14:54] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 16,2023 14:54] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 16,2023 14:54] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 16,2023 14:54] [ShutdownThread] Shutting down
+INFO [Mar 16,2023 14:59] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 16,2023 14:59] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 16,2023 14:59] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 16,2023 14:59] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 16,2023 14:59] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 16,2023 14:59] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 16,2023 14:59] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 16,2023 14:59] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 16,2023 14:59] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 16,2023 15:01] [TrackLoader] Loading resource:  /big7_disk/hg002_r9.4.1/bam/HG002_GRCh38_10x.bam
+INFO [Mar 16,2023 15:05] [TrackLoader] Loading resource:  /big7_disk/giab_lsk114_2022.12/analysis/wf-human-var-output/hg002_sup_v4/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 16,2023 15:06] [TrackLoader] Loading resource:  /big7_disk/hg002_r9.4.1/HG002_GRCh38_60x.haplotag.bam
+INFO [Mar 16,2023 15:08] [TrackLoader] Loading resource:  /big7_disk/hg002_r9.4.1/HG002_GRCh38_60x.haplotag.bam
+INFO [Mar 17,2023 21:07] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 17,2023 21:07] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 17,2023 21:07] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 17,2023 21:07] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 17,2023 21:07] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 17,2023 21:07] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 17,2023 21:08] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 17,2023 21:08] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 17,2023 21:08] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 17,2023 21:08] [TrackLoader] Loading resource:  /big7_disk/hg002_r9.4.1/HG002_GRCh38_60x.haplotag.bam
+INFO [Mar 17,2023 21:10] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg38/hg38.json
+INFO [Mar 17,2023 21:11] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.txt.gz
+INFO [Mar 17,2023 21:11] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 17,2023 21:11] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 17,2023 21:11] [TrackLoader] Loading resource:  /big7_disk/hg002_r9.4.1/HG002_GRCh38_60x.haplotag.bam
+WARNING [Mar 17,2023 21:37] [AlignmentTrack] Attempt to sort alignments prior to loading
+INFO [Mar 20,2023 17:53] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 20,2023 17:53] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 20,2023 17:53] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 20,2023 17:53] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 20,2023 17:53] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 20,2023 17:53] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 20,2023 17:53] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 20,2023 17:53] [GenomeManager] Loading genome: https://s3.amazonaws.com/igv.org.genomes/hg19/hg19.json
+INFO [Mar 20,2023 17:53] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg19/ncbiRefSeq.sorted.txt.gz
+INFO [Mar 20,2023 17:54] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.bam
+INFO [Mar 21,2023 18:53] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+SEVERE [Mar 21,2023 18:53] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Mar 21,2023 18:53] [DefaultExceptionHandler] java.lang.IllegalArgumentException: Width and height must be >= 0
+	at java.desktop/javax.swing.plaf.basic.BasicHTML.getHTMLBaseline(Unknown Source)
+	at java.desktop/javax.swing.plaf.metal.MetalToolTipUI.paint(Unknown Source)
+	at java.desktop/javax.swing.plaf.ComponentUI.update(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintComponent(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JLayeredPane.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedImpl(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.BufferStrategyPaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/java.awt.GraphicsCallback$PaintCallback.run(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runOneComponent(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runComponents(Unknown Source)
+	at java.desktop/java.awt.Container.paint(Unknown Source)
+	at java.desktop/java.awt.Window.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Mar 21,2023 18:54] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 21,2023 18:55] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 21,2023 19:06] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 02:48] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 02:48] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 02:48] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 02:48] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 02:48] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 02:48] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 02:48] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 02:48] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 02:48] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 02:48] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 03:21] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 03:21] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 03:21] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 03:21] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 03:21] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 03:21] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 03:21] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 03:21] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 03:21] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 03:21] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 04:47] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 04:47] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 04:47] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 04:47] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 04:47] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 04:47] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 04:47] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 04:47] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 04:47] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 04:47] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 05:29] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 05:29] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 05:29] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 05:29] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 05:29] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 05:29] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 05:29] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 05:29] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 05:29] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 05:29] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 05:49] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 22,2023 08:26] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:34] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:34] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:34] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:34] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:34] [GenomeManager] Loading genome: /home/pohui111/igv/genomes/hg38.json
+INFO [Mar 22,2023 08:34] [GenomeManager] Loading genome: /gpu_home/jyunhong104/r1041/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:35] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.txt.gz
+INFO [Mar 22,2023 08:35] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 08:35] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 08:35] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 08:35] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 08:35] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 08:35] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 08:35] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 08:35] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 08:35] [GenomeManager] Loading genome: /home/pohui111/igv/genomes/hg38.json
+INFO [Mar 22,2023 08:35] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.txt.gz
+INFO [Mar 22,2023 08:35] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:35] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:35] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:36] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:36] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:37] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:38] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:38] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:38] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:40] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.bam
+INFO [Mar 22,2023 08:40] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 08:41] [GenomeManager] Loading genome: /home/pohui111/igv/genomes/hg38.json
+INFO [Mar 22,2023 08:41] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.txt.gz
+INFO [Mar 22,2023 08:41] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:41] [GenomeManager] Loading genome: /home/pohui111/igv/genomes/hg38.json
+INFO [Mar 22,2023 08:42] [TrackLoader] Loading resource:  https://s3.amazonaws.com/igv.org.genomes/hg38/ncbiRefSeq.txt.gz
+INFO [Mar 22,2023 08:42] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 08:42] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 09:43] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 22,2023 09:44] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 13:30] [ShutdownThread] Shutting down
+INFO [Mar 22,2023 13:30] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 22,2023 13:30] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 22,2023 13:30] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 22,2023 13:30] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 22,2023 13:30] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 22,2023 13:30] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 22,2023 13:30] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 22,2023 13:30] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 22,2023 13:31] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Mar 22,2023 16:01] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 25,2023 15:22] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 25,2023 15:22] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 25,2023 15:22] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 25,2023 15:22] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 25,2023 15:22] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 25,2023 15:22] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 25,2023 15:22] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 25,2023 15:22] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 25,2023 15:25] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 25,2023 16:43] [ShutdownThread] Shutting down
+INFO [Mar 25,2023 16:43] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 25,2023 16:43] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 25,2023 16:43] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 25,2023 16:43] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 25,2023 16:43] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 25,2023 16:43] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 25,2023 16:43] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 25,2023 16:43] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 25,2023 16:43] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 25,2023 17:09] [ShutdownThread] Shutting down
+INFO [Mar 25,2023 17:09] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 25,2023 17:09] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 25,2023 17:09] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 25,2023 17:09] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 25,2023 17:09] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 25,2023 17:09] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 25,2023 17:09] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 25,2023 17:09] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 25,2023 17:09] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 29,2023 03:42] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 29,2023 03:42] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 29,2023 03:42] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 29,2023 03:42] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 29,2023 03:42] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 29,2023 03:42] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 29,2023 03:42] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 29,2023 03:42] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 29,2023 03:42] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 29,2023 04:01] [ShutdownThread] Shutting down
+INFO [Mar 29,2023 04:01] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 29,2023 04:01] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 29,2023 04:01] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 29,2023 04:01] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 29,2023 04:01] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 29,2023 04:01] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 29,2023 04:01] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 29,2023 04:01] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 29,2023 04:01] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Mar 29,2023 04:53] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Mar 29,2023 04:53] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Mar 29,2023 04:53] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Mar 29,2023 04:53] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Mar 29,2023 04:53] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Mar 29,2023 04:53] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Mar 29,2023 04:53] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Mar 29,2023 04:53] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Mar 29,2023 04:54] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 06,2023 16:16] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 06,2023 16:16] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 06,2023 16:16] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 06,2023 16:16] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 06,2023 16:16] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 06,2023 16:16] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 06,2023 16:16] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 06,2023 16:16] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 06,2023 16:16] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+SEVERE [Apr 07,2023 23:15] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Apr 07,2023 23:15] [DefaultExceptionHandler] java.lang.IllegalArgumentException: Width and height must be >= 0
+	at java.desktop/javax.swing.plaf.basic.BasicHTML.getHTMLBaseline(Unknown Source)
+	at java.desktop/javax.swing.plaf.metal.MetalToolTipUI.paint(Unknown Source)
+	at java.desktop/javax.swing.plaf.ComponentUI.update(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintComponent(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JLayeredPane.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedImpl(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.BufferStrategyPaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/java.awt.GraphicsCallback$PaintCallback.run(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runOneComponent(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runComponents(Unknown Source)
+	at java.desktop/java.awt.Container.paint(Unknown Source)
+	at java.desktop/java.awt.Window.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Apr 13,2023 02:50] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 13,2023 02:50] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 13,2023 02:50] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 13,2023 02:50] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 13,2023 02:50] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 13,2023 02:50] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 13,2023 02:50] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 13,2023 02:50] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 13,2023 02:58] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 13,2023 03:31] [ShutdownThread] Shutting down
+INFO [Apr 13,2023 03:31] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 13,2023 03:31] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 13,2023 03:31] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 13,2023 03:31] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 13,2023 03:31] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 13,2023 03:31] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 13,2023 03:31] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 13,2023 03:31] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 13,2023 03:31] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 13,2023 04:31] [ShutdownThread] Shutting down
+INFO [Apr 13,2023 04:31] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 13,2023 04:31] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 13,2023 04:31] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 13,2023 04:31] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 13,2023 04:31] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 13,2023 04:31] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 13,2023 04:31] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 13,2023 04:31] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 13,2023 04:32] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 13,2023 04:48] [ShutdownThread] Shutting down
+INFO [Apr 13,2023 04:48] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 13,2023 04:48] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 13,2023 04:48] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 13,2023 04:48] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 13,2023 04:48] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 13,2023 04:48] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 13,2023 04:48] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 13,2023 04:48] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 13,2023 04:48] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 13,2023 05:42] [ShutdownThread] Shutting down
+INFO [Apr 13,2023 05:42] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 13,2023 05:42] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 13,2023 05:42] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 13,2023 05:42] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 13,2023 05:42] [Main] OS: Linux 5.15.0-60-generic amd64
+INFO [Apr 13,2023 05:42] [Main] IGV Directory: /home/pohui111/igv
+SEVERE [Apr 13,2023 05:42] [CommandListener] java.net.BindException: Address already in use (Bind failed)
+	at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.bind(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at java.base/java.net.ServerSocket.<init>(Unknown Source)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:136)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Apr 13,2023 05:42] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 13,2023 05:43] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+SEVERE [Apr 13,2023 10:24] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Apr 13,2023 10:24] [DefaultExceptionHandler] java.lang.IllegalArgumentException: Width and height must be >= 0
+	at java.desktop/javax.swing.plaf.basic.BasicHTML.getHTMLBaseline(Unknown Source)
+	at java.desktop/javax.swing.plaf.metal.MetalToolTipUI.paint(Unknown Source)
+	at java.desktop/javax.swing.plaf.ComponentUI.update(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintComponent(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/javax.swing.JLayeredPane.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintChildren(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paintToOffscreen(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBufferedImpl(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$PaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.BufferStrategyPaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paint(Unknown Source)
+	at java.desktop/javax.swing.JComponent.paint(Unknown Source)
+	at java.desktop/java.awt.GraphicsCallback$PaintCallback.run(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runOneComponent(Unknown Source)
+	at java.desktop/sun.awt.SunGraphicsCallback.runComponents(Unknown Source)
+	at java.desktop/java.awt.Container.paint(Unknown Source)
+	at java.desktop/java.awt.Window.paint(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.paintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager.prePaintDirtyRegions(Unknown Source)
+	at java.desktop/javax.swing.RepaintManager$ProcessingRunnable.run(Unknown Source)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+
+INFO [Apr 24,2023 13:32] [Main] Startup  IGV Version 2.16.0 01/25/2023 01:50 PM
+INFO [Apr 24,2023 13:32] [Main] Java 11.0.13 (build 11.0.13+8) 2021-10-19
+INFO [Apr 24,2023 13:32] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Apr 24,2023 13:32] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-11.0.13+8   
+INFO [Apr 24,2023 13:32] [Main] OS: Linux 5.15.0-69-generic amd64
+INFO [Apr 24,2023 13:32] [Main] IGV Directory: /home/pohui111/igv
+INFO [Apr 24,2023 13:32] [CommandListener] Listening on port 60151
+INFO [Apr 24,2023 13:32] [GenomeManager] Loading genome: /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 24,2023 15:02] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 24,2023 17:46] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
+INFO [Apr 24,2023 17:59] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/GCA_000001405.15_GRCh38_no_alt_analysis_set.fa
+INFO [Apr 25,2023 17:10] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.10x.haplotag.bam
+INFO [Apr 26,2023 22:05] [TrackLoader] Loading resource:  /gpu_disk2/jyunhong104/sup/hg002.sup.60x.haplotag.bam
